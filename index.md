@@ -24,7 +24,7 @@
   - [开源活动与项目](OpenSource/open_source_programs.md)
 
 ### 竞赛与升学
-- [竞赛指北](Competitions/README.md) - 各类竞赛信息与准备
+- [竞赛指北](https://github.com/CS-Survive-henu/Henu-Computer-Survival-Guide/wiki/%E7%AB%9E%E8%B5%9B%E6%8C%87%E5%8C%97) - 各类竞赛信息与准备
   - [ACM/ICPC](Competitions/acm_icpc.md)
   - [挑战杯](Competitions/challenge_cup.md)
   - [CTF](Competitions/ctf.md)
