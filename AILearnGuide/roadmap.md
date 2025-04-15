@@ -6,8 +6,8 @@
 2. **Python编程基础**
 3. **机器学习基础**：监督学习、无监督学习、常用算法（如回归、决策树、SVM等）
 4. **深度学习基础**：神经网络、反向传播、CNN、RNN等
-5. **主流框架入门**：PyTorch、TensorFlow
-6. **实战项目**：Kaggle竞赛、论文复现
-7. **前沿方向**：NLP、CV、强化学习等
+5. **主流框架入门**：[PyTorch、TensorFlow](frameworks.md)
+6. **实战项目**：[Kaggle竞赛、论文复现](projects.md)
+7. **前沿方向**：NLP、CV、强化学习等，详见[进阶学习](advanced_learning.md)
 
-每一步可结合推荐课程与项目实践。
+每一步可结合[推荐课程](courses.md)与项目实践。学习过程中遇到问题，可以参考[社区资源](community.md)寻求帮助。

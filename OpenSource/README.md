@@ -1,21 +1,22 @@
-# 开源社区与贡献
+# 开源贡献指南
+
+本指南旨在帮助计算机专业学生了解开源文化并参与开源项目贡献。
 
 <div align="center">
 <img src="https://example.com/opensource-logo.png" alt="开源社区与贡献" width="150"/>
 </div>
 
-## 📋 模块内容
+## 目录
 
-本模块介绍开源精神、参与方式及新手友好项目，帮助你迈出开源贡献的第一步，积累实战经验。
+1. [开源精神与协议](spirit_license.md) - 了解开源的基本理念和常见许可证
+2. [新手友好项目](beginner_projects.md) - 适合初学者的开源项目推荐
+3. [如何参与开源项目](how_to_contribute.md) - 详细的开源贡献步骤指南
+4. [开源贡献流程](workflow.md) - Git工作流和PR提交流程
+5. [贡献案例分析](contribution_cases.md) - 真实的开源贡献案例解析
+6. [开源与职业发展](career.md) - 开源经历如何促进职业发展
+7. [开源活动与项目](open_source_programs.md) - GSoC、Outreachy等开源项目介绍
 
-## 📚 目录
-
-- [开源精神与协议](spirit_license.md) - 开源基本概念与常见协议介绍
-- [如何参与开源项目](how_to_contribute.md) - 详细的开源贡献流程与技巧
-- [新手友好项目推荐](beginner_projects.md) - 适合初学者的开源项目
-- [贡献流程详解](workflow.md) - 标准Git与GitHub协作流程
-- [开源与职业发展](career.md) - 开源贡献对个人成长的价值
-- [开源实习与项目计划](open_source_programs.md) - GSoC、Linux基金会实习、开源之夏等机会
+选择你感兴趣的主题开始学习！如果你是完全的新手，建议按照上述顺序阅读。
 
 ## 🔍 参与建议
 
