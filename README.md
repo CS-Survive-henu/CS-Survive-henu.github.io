@@ -39,21 +39,27 @@
 
 维护者:[WesCui](https://github.com/WesCui)
 
-##  4 [AI学习指北](AILearnGuide/README.md) - 人工智能学习路线与资源
+## 4 [AI学习指北](AILearnGuide/README.md) - 人工智能学习路线与资源
+
+人工智能正以前所未有的速度重塑各行各业。作为计算机专业学生，掌握AI技能带来诸多优势：首先，AI提供了解决复杂问题的强大工具，从图像识别到自然语言处理；其次，AI技术正快速融入各领域，创造出大量就业机会；再者，AI驱动的自动化提高了效率，让我们能专注于更具创造性的工作；最后，AI的跨学科性质拓宽了职业发展路径，促进了创新思维。无论是改进现有系统还是创造全新解决方案，AI都为计算机科学学生提供了广阔的发展空间和竞争优势。
+
   - [学习路线图](AILearnGuide/roadmap.md)
   - [推荐课程](AILearnGuide/courses.md)
   - [常用框架](AILearnGuide/frameworks.md)
   - [入门项目](AILearnGuide/projects.md)
   - [社区资源](AILearnGuide/community.md)
   - [进阶学习](AILearnGuide/advanced_learning.md)
-  欢迎有AI学习和研究经验的同学参与内容共建。
+  
 
 ## 5 [开源贡献](OpenSource/README.md) - 如何参与开源项目
+
+参与开源项目为计算机专业学生带来诸多好处：首先，开源贡献是提升编程技能的绝佳途径，通过阅读和贡献高质量代码，你能学习最佳实践；其次，开源社区提供了宝贵的人脉网络，有机会与行业专家合作；再者，雇主普遍看重开源贡献经历，它是你技术能力和协作精神的直接证明；此外，参与开源培养了项目管理、团队协作和沟通等软技能；最后，开源精神鼓励知识共享和合作创新，为社会创造更大价值。无论是刚入门的新手还是有经验的开发者，开源社区都欢迎你的加入和贡献。
+
   - [开源精神与协议](OpenSource/spirit_license.md)
   - [新手友好项目](OpenSource/beginner_projects.md)
   - [贡献流程](OpenSource/workflow.md)
   - [开源活动与项目](OpenSource/open_source_programs.md)
-  鼓励大家积极参与开源，为技术社区做出自己的贡献。
+  
 
 ## 6  [学会提问](https://github.com/CS-Survive-henu/CS-Survive-henu.github.io/wiki/%E5%AD%A6%E4%BC%9ASTFW%E5%92%8CRTFM)
 
