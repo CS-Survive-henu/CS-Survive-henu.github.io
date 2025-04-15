@@ -1,4 +1,3 @@
-
 # 欢迎来到河南大学计算机类专业生存指北
 
 本项目由河南大学计算机学院和软件学院的学生/毕业生共同维护  
@@ -40,14 +39,27 @@
 
 维护者:[WesCui](https://github.com/WesCui)
 
-
 ##  4  [AI方向](https://github.com/CS-Survive-henu/Henu-Computer-Survival-Guide/wiki/AI%E6%96%B9%E5%90%91)
 
-#TODO
+近年来，人工智能（AI）已成为计算机领域最具活力和前景的方向之一。本部分将持续更新，内容包括：
+- AI基础知识（机器学习、深度学习、神经网络等）
+- 主流AI框架（如PyTorch、TensorFlow等）入门与实战
+- 经典课程与学习路线推荐
+- 前沿技术动态与论文资源
+- 实践项目案例与竞赛经验
 
-##  5  [如何使用AI](https://github.com/CS-Survive-henu/CS-Survive-henu.github.io/wiki/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8AI)
+欢迎有AI学习和研究经验的同学参与内容共建。
 
-#没写
+##  5  [开源社区与贡献](https://github.com/CS-Survive-henu/Henu-Computer-Survival-Guide/wiki/%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E4%B8%8E%E8%B4%A1%E7%8C%AE)
+
+开源社区是计算机技术创新和协作的核心。本部分将介绍：
+- 开源精神与常见开源协议
+- 如何参与开源项目（如GitHub操作、Issue/PR流程）
+- 新手友好的开源项目推荐
+- 贡献代码、文档、翻译等多种方式
+- 开源社区的职业发展与人脉拓展
+
+鼓励大家积极参与开源，为技术社区做出自己的贡献。
 
 ## 6  [学会提问](https://github.com/CS-Survive-henu/CS-Survive-henu.github.io/wiki/%E5%AD%A6%E4%BC%9ASTFW%E5%92%8CRTFM)
 
