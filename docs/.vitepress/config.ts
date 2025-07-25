@@ -16,6 +16,7 @@ export default defineConfig({
     siteTitle: 'CS-Survive-Henu',
     nav: [
       { text: '首页', link: '/' },
+      { text: '序', link: '/序' },
       { text: '新生工具箱', link: '/新生工具箱' },
       { text: 'AI方向', link: '/AI方向' },
       { text: '竞赛指北', link: '/竞赛指北' },
@@ -31,6 +32,12 @@ export default defineConfig({
     ],
     sidebar: {
       '/': [
+        {
+          text: '📖 序言',
+          items: [
+            { text: '序', link: '/序' }
+          ]
+        },
         {
           text: '🎯 快速开始',
           items: [
