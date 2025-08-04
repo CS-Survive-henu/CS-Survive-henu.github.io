@@ -89,6 +89,10 @@ export default defineConfig({
     },
     search: {
       provider: 'local'
+    },
+    editLink: {
+      pattern: 'https://github.com/CS-Survive-henu/CS-Survive-henu.github.io/edit/main/docs/:path',
+      text: '在 GitHub 上编辑此页'
     }
   },
   markdown: {
