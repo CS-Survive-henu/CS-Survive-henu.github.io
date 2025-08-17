@@ -9,7 +9,8 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
     ['meta', { name: 'description', content: '河南大学计算机生存指北 - 开源生存指南' }],
-    ['meta', { name: 'keywords', content: '河南大学,计算机,生存指北,学习指南,编程,AI,Linux,开源' }]
+    ['meta', { name: 'keywords', content: '河南大学,计算机,生存指北,学习指南,编程,AI,Linux,开源' }],
+    ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css' }]
   ],
   themeConfig: {
     logo: '/logo.svg',
@@ -99,6 +100,7 @@ export default defineConfig({
     lineNumbers: true,
     image: {
       lazyLoading: true
-    }
+    },
+    math: true
   }
 })
