@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+tqdm>=4.64.0
+wandb>=0.15.0  # Optional: for experiment tracking
+psutil>=5.9.0  # For memory monitoring
