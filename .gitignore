@@ -30,6 +30,13 @@ Thumbs.db
 logs
 *.log
 
+# DDP Training logs and temporary files
+examples/distributed_training/*.log
+examples/distributed_training/*_rank_*.log
+examples/distributed_training/ddp_training_*.log
+examples/distributed_training/__pycache__/
+examples/distributed_training/*.pyc
+
 # Environment variables
 .env
 .env.local
@@ -45,3 +52,14 @@ build/
 # Temporary files
 *.tmp
 *.temp
+
+# Python cache and artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# PyTorch model files
+*.pth
+*.pt
+checkpoints/
