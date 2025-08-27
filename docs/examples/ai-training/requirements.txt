@@ -1,0 +1,20 @@
+# Requirements for DDP Training Script
+# Core PyTorch and distributed training
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# System monitoring and memory management
+psutil>=5.9.0
+
+# Additional utilities for robust training
+numpy>=1.21.0
+
+# Optional: For advanced monitoring and logging
+wandb>=0.15.0  # For experiment tracking (optional)
+tensorboard>=2.13.0  # For visualization (optional)
+
+# Development and testing
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
